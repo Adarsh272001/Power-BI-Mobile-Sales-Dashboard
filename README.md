@@ -56,8 +56,8 @@ This dashboard empowers sales teams and management with actionable insights to e
 **7. Dashboard Screenshots**
 Below are screenshots illustrating the key sections and interactivity of the Mobile Sales Dashboard.
 
-Dashboard Overview: https://github.com/Adarsh272001/Power-BI-Mobile-Sales-Dashboard/blob/main/D1.png
+Dashboard Overview: https://github.com/Adarsh272001/Power-BI-Mobile-Sales-Dashboard/blob/main/iamges/D1.png
 
-Month-to-Date (MTD) Report: https://github.com/Adarsh272001/Power-BI-Mobile-Sales-Dashboard/blob/main/d2.png
+Month-to-Date (MTD) Report: https://github.com/Adarsh272001/Power-BI-Mobile-Sales-Dashboard/blob/main/images/d2.png
 
-Year-over-Year Comparison: https://github.com/Adarsh272001/Power-BI-Mobile-Sales-Dashboard/blob/main/d3.png
+Year-over-Year Comparison: https://github.com/Adarsh272001/Power-BI-Mobile-Sales-Dashboard/blob/main/images/d3.png
